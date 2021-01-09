@@ -1,0 +1,28 @@
+commands:
+  lu:
+    reloadCommand:
+      aliases:
+        - "reload"
+        - "r"
+      description: "Przeładuj plugin"
+      permission: "lucy.reload"
+      enabled: true
+  spleef:
+    joinCommand:
+      aliases:
+        - "join"
+        - "dolacz"
+        - "kozak"
+        - "wbij"
+      description: "Dolacz do spleefaf"
+      permission: "spleef.join"
+      enabled: true
+    leaveCommand:
+      aliases:
+        - "leave"
+        - "opusc"
+        - "wyjdz"
+        - "uciekaj"
+      description: "Opusc spleefaf"
+      permission: "spleef.leave"
+      enabled: true

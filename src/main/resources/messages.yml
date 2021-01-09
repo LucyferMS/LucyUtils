@@ -1,0 +1,4 @@
+reloadComplete: "&a&lPlugin przeładowany pomyślnie"
+helpHeader: "&f&lPomoc"
+helpFormat: "&a/%label% %alias%&f: &3%description%"
+helpHover: "Uprawnienia: <%permission%>\nDostępna: <%enabled%>\nAliasy: <%aliases%>"
